@@ -1,1 +1,1 @@
-This SQL runs on MS sql
+This SQL queue verion runs on MS SQL
